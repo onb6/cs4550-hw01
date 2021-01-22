@@ -1,0 +1,31 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Olivia Blier
+
+2. Which VPS & domain providers did you choose?
+VPS: Vultr, Domain Provider: Gandi
+
+3. What domain name did you register?
+onb6.fun
+
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/onb6/cs4550-hw01.git
+
+
+5. Which parts of this assignment did you have trouble with, if any?
+I ended up having to use VMWare Fusion to create my Debian 10 VM, because I was having compatibility issues with VirtualBox on Big Sur. There seemed to be a missing driver after installation that prevented me from being able to create the VM, and there were a lot of people on the internet with the same problem. For this reason I decided to use VMWare Fusion instead. 
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
